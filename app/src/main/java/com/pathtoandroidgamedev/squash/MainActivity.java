@@ -337,6 +337,7 @@ public class MainActivity extends Activity {
     public boolean onTouchEvent(MotionEvent motionEvent)
     {
         System.out.println("Testing Github Commmit");
+        System.out.println("Testing push on github");
     }
 
 
