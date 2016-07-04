@@ -336,7 +336,7 @@ public class MainActivity extends Activity {
     @Override
     public boolean onTouchEvent(MotionEvent motionEvent)
     {
-
+        System.out.println("Testing Github Commmit");
     }
 
 
